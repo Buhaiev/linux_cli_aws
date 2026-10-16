@@ -1,4 +1,7 @@
 # Fun with Linux for Cloud & DevOps Engineers
+This is a sample learning project provided by https://devcloudninjas.github.io/DevOps-Projects/ as teaching tool for new DevOps specialists. 
+The rest of this file and the code were copied directly from the origin; on my side, I followed the instructions and succeeded in deploying the app. MY_NOTES.md contains the remarks I made while following the tutorial.
+
 
 ![linux](https://imgur.com/VpPW8PM.png)
 
